@@ -1,0 +1,17 @@
+{
+  "name": "peakflo",
+  "description": "Peakflo QA skills",
+  "owner": {
+    "name": "Peakflo"
+  },
+  "plugins": [
+    {
+      "name": "peakflo-qa",
+      "source": "./plugins/peakflo-qa",
+      "description": "Agentic QA and Playwright test authoring for the Peakflo local app",
+      "version": "0.1.0",
+      "category": "Development",
+      "tags": ["qa", "playwright", "testing"]
+    }
+  ]
+}

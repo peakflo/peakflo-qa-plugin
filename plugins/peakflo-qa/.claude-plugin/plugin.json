@@ -1,0 +1,9 @@
+{
+  "name": "peakflo-qa",
+  "description": "Agentic QA and Playwright test authoring for the Peakflo local app",
+  "version": "0.1.0",
+  "author": {
+    "name": "Peakflo"
+  },
+  "repository": "https://github.com/peakflo/peakflo-qa-plugin"
+}
